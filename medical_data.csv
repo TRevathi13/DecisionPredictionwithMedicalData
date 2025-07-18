@@ -1,0 +1,501 @@
+Age,Gender,Smoking,Alcohol,BMI,BloodPressure,Cholesterol,Diabetes,Family_History,PhysicalActivity,Disease
+58,Female,Yes,Yes,34.1,157,210,No,No,2,Heart Disease
+71,Male,Yes,No,26.1,141,287,Yes,Yes,6,Diabetes
+48,Male,No,Yes,32.7,116,199,No,Yes,4,No Disease
+34,Female,Yes,Yes,32.4,118,152,Yes,No,3,No Disease
+62,Male,Yes,Yes,23.4,117,256,No,Yes,1,No Disease
+27,Female,Yes,No,32.1,124,262,No,Yes,4,No Disease
+40,Male,Yes,No,18.6,97,243,No,No,1,No Disease
+58,Female,Yes,Yes,28.1,105,267,Yes,Yes,3,Diabetes
+77,Female,No,No,21.9,125,230,Yes,Yes,2,No Disease
+38,Female,Yes,Yes,20.0,119,258,No,No,1,Heart Disease
+42,Female,No,Yes,19.3,107,200,Yes,Yes,0,No Disease
+30,Female,No,Yes,29.8,91,296,No,No,0,Diabetes
+30,Female,Yes,Yes,23.8,138,184,Yes,Yes,6,Diabetes
+43,Male,Yes,No,30.3,93,195,Yes,Yes,4,Heart Disease
+72,Male,Yes,No,19.1,96,218,Yes,No,3,No Disease
+55,Male,Yes,No,23.4,128,242,No,No,6,Heart Disease
+59,Female,No,Yes,27.2,102,213,Yes,Yes,4,No Disease
+43,Female,Yes,Yes,31.4,120,198,Yes,No,4,No Disease
+22,Female,Yes,Yes,23.4,152,298,No,No,6,Heart Disease
+41,Female,Yes,No,28.6,145,223,No,Yes,5,No Disease
+72,Male,Yes,Yes,33.1,131,154,No,Yes,4,No Disease
+21,Male,Yes,No,28.5,150,249,No,Yes,5,No Disease
+43,Female,Yes,No,22.0,131,219,Yes,No,0,Diabetes
+63,Male,No,No,18.4,145,239,Yes,No,0,Heart Disease
+49,Male,No,No,32.8,125,153,Yes,No,4,Heart Disease
+57,Female,Yes,No,18.4,157,275,Yes,No,0,Diabetes
+21,Male,Yes,No,32.9,96,188,Yes,Yes,3,No Disease
+79,Female,Yes,Yes,27.0,143,278,No,No,5,Heart Disease
+40,Male,No,Yes,34.0,90,173,Yes,Yes,5,No Disease
+52,Female,Yes,No,31.6,133,206,Yes,No,4,Diabetes
+31,Female,No,No,35.0,134,249,Yes,Yes,0,Diabetes
+77,Female,Yes,Yes,24.0,136,219,No,Yes,1,No Disease
+41,Female,Yes,No,31.0,102,190,No,Yes,6,No Disease
+63,Male,Yes,No,24.8,111,209,Yes,No,6,Diabetes
+44,Female,Yes,Yes,26.2,110,257,No,Yes,5,Diabetes
+68,Female,No,No,28.7,98,206,No,Yes,4,Diabetes
+46,Female,No,No,32.9,115,180,No,No,4,Heart Disease
+78,Male,Yes,No,34.7,98,233,No,Yes,3,Heart Disease
+61,Female,Yes,Yes,31.1,104,185,No,No,2,Diabetes
+47,Male,No,Yes,25.1,99,257,No,No,2,Diabetes
+79,Female,No,Yes,25.2,131,255,No,Yes,5,No Disease
+35,Male,No,No,30.5,113,235,Yes,Yes,6,Diabetes
+34,Male,No,No,22.1,138,284,Yes,No,3,Diabetes
+66,Female,Yes,Yes,19.9,115,163,No,Yes,3,Diabetes
+70,Male,No,No,24.0,126,269,Yes,No,3,No Disease
+63,Female,Yes,No,22.9,157,287,Yes,No,5,No Disease
+74,Female,No,No,23.0,139,229,No,No,2,Diabetes
+71,Female,No,No,22.0,113,293,Yes,Yes,6,No Disease
+76,Male,No,No,18.7,108,255,No,No,3,Heart Disease
+22,Male,No,Yes,18.3,149,219,No,Yes,6,Diabetes
+56,Female,No,No,34.8,128,193,No,Yes,0,Diabetes
+70,Female,Yes,Yes,25.3,107,222,Yes,Yes,4,Diabetes
+26,Male,Yes,No,24.5,108,194,Yes,Yes,4,No Disease
+40,Female,No,Yes,29.6,125,256,Yes,No,6,No Disease
+28,Female,No,No,21.7,144,233,Yes,Yes,1,Heart Disease
+58,Female,Yes,Yes,34.1,158,231,No,No,1,No Disease
+37,Male,No,No,31.4,136,256,No,No,5,Diabetes
+23,Male,No,Yes,19.5,138,170,Yes,Yes,5,Heart Disease
+44,Male,Yes,No,25.1,122,156,No,No,4,Heart Disease
+79,Female,No,Yes,32.9,110,219,No,No,0,Diabetes
+33,Female,No,No,34.1,111,276,Yes,Yes,2,Heart Disease
+69,Female,Yes,Yes,25.9,137,292,No,No,2,Heart Disease
+77,Male,Yes,Yes,28.4,126,297,Yes,No,5,Heart Disease
+28,Female,Yes,No,20.8,104,292,No,No,0,Diabetes
+45,Female,No,No,34.8,124,298,Yes,No,5,No Disease
+72,Female,Yes,Yes,21.9,121,269,No,Yes,2,Diabetes
+21,Female,Yes,No,34.0,100,277,No,No,6,No Disease
+39,Male,Yes,Yes,29.0,99,291,Yes,No,5,Diabetes
+47,Male,Yes,Yes,28.3,146,206,Yes,No,3,No Disease
+66,Female,Yes,Yes,26.7,114,207,Yes,No,6,No Disease
+79,Male,Yes,No,21.9,91,170,Yes,Yes,5,No Disease
+26,Male,No,Yes,21.0,153,231,No,No,4,Diabetes
+63,Female,No,Yes,21.7,124,218,No,Yes,5,No Disease
+27,Female,Yes,No,21.2,96,280,Yes,No,4,Heart Disease
+66,Male,Yes,No,31.3,107,236,No,Yes,0,Diabetes
+54,Female,Yes,No,24.0,156,198,Yes,Yes,2,Diabetes
+33,Male,No,No,19.0,131,296,Yes,Yes,6,Diabetes
+36,Female,No,Yes,34.5,128,264,No,Yes,6,Heart Disease
+55,Male,No,Yes,33.0,130,238,No,Yes,1,No Disease
+69,Female,No,Yes,33.8,113,234,Yes,No,1,No Disease
+59,Male,No,Yes,34.9,149,277,Yes,No,2,Diabetes
+23,Male,No,No,21.0,135,289,Yes,No,1,No Disease
+21,Male,No,Yes,24.7,108,266,No,Yes,6,Diabetes
+25,Female,No,Yes,30.9,157,276,No,No,5,No Disease
+73,Male,No,No,29.8,131,220,No,Yes,0,Diabetes
+61,Male,Yes,Yes,20.6,121,235,No,Yes,0,Heart Disease
+23,Female,Yes,Yes,31.9,128,182,Yes,No,2,No Disease
+73,Female,Yes,Yes,21.8,125,230,Yes,No,1,No Disease
+48,Male,Yes,Yes,21.8,125,210,Yes,Yes,5,No Disease
+37,Male,No,Yes,27.1,92,210,Yes,Yes,0,No Disease
+45,Female,No,Yes,28.1,97,247,Yes,No,0,No Disease
+63,Female,Yes,No,27.9,159,177,Yes,No,3,No Disease
+53,Female,No,No,19.6,130,192,No,No,3,No Disease
+29,Female,Yes,Yes,32.9,157,235,No,No,6,No Disease
+55,Female,No,Yes,22.5,102,166,Yes,Yes,0,Diabetes
+33,Male,Yes,No,20.2,138,247,Yes,No,2,No Disease
+50,Female,No,Yes,33.1,149,247,No,No,4,Heart Disease
+67,Male,No,Yes,34.2,91,214,No,No,4,No Disease
+34,Male,Yes,Yes,32.7,149,223,No,Yes,5,No Disease
+27,Male,No,No,31.8,94,234,No,Yes,0,No Disease
+33,Female,Yes,Yes,29.1,133,154,Yes,Yes,0,No Disease
+42,Male,Yes,No,27.4,116,151,Yes,Yes,6,No Disease
+79,Male,Yes,Yes,19.5,121,171,Yes,No,0,Diabetes
+76,Female,Yes,No,24.9,110,261,Yes,Yes,2,No Disease
+59,Male,No,No,24.3,97,206,Yes,No,3,Heart Disease
+40,Male,No,Yes,22.4,139,215,No,No,0,Heart Disease
+35,Female,No,No,30.3,156,223,Yes,No,0,Heart Disease
+64,Male,Yes,Yes,26.4,133,247,No,No,6,Diabetes
+37,Male,No,No,19.4,147,293,Yes,Yes,1,Diabetes
+66,Male,Yes,Yes,21.7,92,261,Yes,Yes,6,No Disease
+72,Female,No,Yes,29.6,159,274,Yes,Yes,6,Diabetes
+43,Female,No,No,19.3,91,235,Yes,No,2,Diabetes
+45,Female,No,Yes,32.5,133,225,Yes,No,5,Heart Disease
+44,Male,Yes,Yes,26.4,91,237,No,No,0,Diabetes
+79,Male,No,No,26.2,124,187,No,No,6,No Disease
+79,Female,No,Yes,28.1,119,208,No,No,6,Heart Disease
+79,Male,Yes,Yes,32.0,97,287,Yes,Yes,1,Heart Disease
+64,Male,No,No,23.9,111,248,Yes,No,6,Heart Disease
+60,Female,Yes,No,29.5,133,212,No,Yes,4,Heart Disease
+48,Female,No,Yes,27.6,147,198,Yes,No,5,Diabetes
+34,Male,Yes,Yes,22.5,125,181,Yes,No,0,Heart Disease
+64,Male,Yes,No,32.9,158,284,No,Yes,0,No Disease
+20,Male,No,No,31.6,120,170,Yes,Yes,1,No Disease
+44,Female,Yes,Yes,29.2,136,169,No,No,2,Diabetes
+26,Female,Yes,No,32.5,144,276,Yes,No,0,No Disease
+28,Female,Yes,Yes,32.7,151,217,No,No,4,Diabetes
+43,Female,Yes,Yes,30.0,119,259,Yes,No,0,Diabetes
+20,Male,Yes,Yes,32.2,144,265,Yes,Yes,4,No Disease
+63,Female,Yes,Yes,29.9,105,292,No,No,5,Heart Disease
+27,Female,No,Yes,29.6,101,269,Yes,Yes,5,No Disease
+43,Female,Yes,No,28.5,106,228,Yes,No,3,Heart Disease
+30,Female,Yes,No,30.8,105,265,No,Yes,3,Diabetes
+70,Female,No,No,20.7,101,241,Yes,Yes,4,Heart Disease
+36,Male,No,No,33.0,97,163,No,No,2,No Disease
+27,Male,No,Yes,32.8,92,274,Yes,Yes,0,No Disease
+54,Female,No,Yes,18.5,105,207,Yes,No,6,No Disease
+54,Male,No,Yes,32.0,119,177,Yes,Yes,0,Diabetes
+52,Female,No,Yes,20.2,112,175,Yes,No,3,Diabetes
+78,Female,No,No,23.7,94,262,No,Yes,6,Heart Disease
+24,Male,Yes,Yes,30.6,154,215,Yes,No,4,Diabetes
+61,Male,Yes,Yes,20.7,119,280,No,No,6,No Disease
+58,Female,No,No,31.9,110,193,Yes,Yes,0,Diabetes
+77,Female,Yes,No,32.1,159,246,Yes,Yes,0,No Disease
+60,Female,Yes,No,26.6,111,191,Yes,Yes,2,No Disease
+47,Male,Yes,No,18.1,121,155,Yes,Yes,1,Diabetes
+26,Female,No,Yes,22.9,122,172,No,No,6,No Disease
+28,Female,No,Yes,28.5,105,238,No,Yes,3,Heart Disease
+27,Female,Yes,No,34.7,127,272,No,No,3,Heart Disease
+31,Male,No,Yes,28.7,103,296,No,Yes,1,Heart Disease
+53,Female,Yes,Yes,22.4,125,200,Yes,No,0,Diabetes
+52,Female,Yes,Yes,28.8,112,160,No,No,2,Diabetes
+67,Male,Yes,No,27.2,155,161,No,No,2,Diabetes
+74,Female,Yes,Yes,31.3,91,223,Yes,No,3,Diabetes
+42,Female,No,No,19.8,154,157,Yes,Yes,2,Diabetes
+43,Male,No,Yes,30.9,156,190,Yes,Yes,5,No Disease
+56,Female,No,Yes,27.2,141,234,Yes,No,1,No Disease
+54,Male,Yes,Yes,34.4,151,221,No,Yes,0,Heart Disease
+63,Male,No,No,23.8,112,204,No,Yes,5,Heart Disease
+59,Female,Yes,Yes,28.8,115,286,Yes,No,1,No Disease
+41,Female,No,No,33.8,157,196,Yes,Yes,4,Diabetes
+46,Female,Yes,No,19.7,144,292,Yes,Yes,6,No Disease
+54,Female,Yes,No,33.9,95,253,No,Yes,3,Diabetes
+20,Male,Yes,Yes,29.7,124,191,No,No,2,Diabetes
+54,Female,No,Yes,19.2,111,209,Yes,Yes,4,Heart Disease
+56,Male,No,Yes,23.1,132,161,Yes,No,2,Heart Disease
+66,Female,No,Yes,30.0,104,279,No,Yes,5,No Disease
+33,Female,No,No,19.1,149,156,Yes,Yes,0,Diabetes
+22,Female,Yes,No,27.9,101,229,Yes,Yes,0,No Disease
+20,Male,No,No,23.9,138,280,No,No,0,No Disease
+24,Female,No,Yes,28.6,131,258,Yes,No,2,Diabetes
+45,Female,Yes,No,18.8,127,152,No,Yes,4,No Disease
+74,Female,Yes,Yes,32.8,134,176,Yes,No,0,Diabetes
+33,Female,Yes,No,34.5,124,263,Yes,Yes,4,Diabetes
+58,Male,No,Yes,34.5,119,256,No,No,2,No Disease
+46,Female,Yes,Yes,30.7,119,189,No,No,5,Diabetes
+28,Male,Yes,No,20.2,95,278,Yes,Yes,4,Diabetes
+34,Male,Yes,No,30.9,156,157,No,Yes,5,Heart Disease
+34,Male,No,No,18.4,96,250,Yes,Yes,2,Diabetes
+45,Male,Yes,No,18.4,141,273,Yes,Yes,2,No Disease
+61,Male,No,Yes,23.5,103,256,No,No,3,No Disease
+79,Male,No,No,26.3,104,250,Yes,No,2,No Disease
+32,Female,Yes,No,31.1,110,153,Yes,No,2,No Disease
+70,Male,Yes,No,29.6,124,259,No,Yes,1,Diabetes
+51,Male,No,Yes,25.6,155,168,No,Yes,0,Diabetes
+58,Male,Yes,Yes,22.7,91,181,Yes,No,3,Heart Disease
+68,Female,Yes,No,35.0,124,286,No,Yes,6,Diabetes
+71,Female,No,Yes,25.2,109,161,No,No,3,Diabetes
+51,Male,No,No,25.7,99,288,No,No,3,No Disease
+23,Female,Yes,Yes,20.8,114,195,No,No,6,Diabetes
+49,Male,No,Yes,31.5,155,268,Yes,No,1,Diabetes
+56,Male,Yes,Yes,29.8,114,165,Yes,No,5,Diabetes
+42,Female,Yes,Yes,21.8,143,278,Yes,Yes,2,No Disease
+58,Male,Yes,No,19.4,122,212,No,Yes,0,No Disease
+64,Female,No,No,29.6,125,258,No,Yes,4,Heart Disease
+34,Female,Yes,No,29.1,103,268,No,No,6,Diabetes
+62,Male,Yes,Yes,22.6,154,170,No,No,5,No Disease
+48,Male,Yes,No,34.2,143,162,No,No,6,Diabetes
+55,Female,No,No,20.6,141,153,No,No,2,Heart Disease
+32,Male,No,No,25.3,92,251,No,Yes,1,No Disease
+51,Male,No,Yes,34.0,130,208,Yes,Yes,6,No Disease
+26,Male,No,Yes,25.1,95,277,Yes,No,2,Heart Disease
+78,Female,No,Yes,28.9,114,176,No,No,2,No Disease
+70,Female,Yes,No,24.8,102,218,No,No,1,No Disease
+41,Male,No,No,22.7,97,174,No,Yes,3,Diabetes
+47,Female,No,No,34.7,110,280,Yes,Yes,3,No Disease
+21,Female,No,Yes,25.0,157,246,Yes,Yes,0,No Disease
+61,Female,Yes,Yes,33.2,114,174,No,No,0,No Disease
+64,Female,No,No,21.9,157,297,No,No,3,No Disease
+76,Female,No,Yes,21.6,134,275,Yes,Yes,5,Heart Disease
+72,Male,Yes,Yes,18.5,149,282,Yes,No,4,Heart Disease
+25,Male,No,Yes,29.1,101,158,Yes,Yes,2,Diabetes
+47,Male,Yes,Yes,24.3,121,265,Yes,No,4,Heart Disease
+47,Female,Yes,No,32.7,102,283,No,Yes,2,Diabetes
+63,Female,Yes,Yes,26.0,120,209,Yes,No,3,No Disease
+63,Male,Yes,Yes,34.5,109,270,Yes,Yes,0,No Disease
+39,Female,Yes,Yes,21.2,107,288,No,Yes,5,No Disease
+49,Male,No,Yes,32.8,149,257,Yes,Yes,0,No Disease
+30,Male,Yes,No,31.2,152,257,Yes,Yes,4,No Disease
+77,Male,Yes,No,31.1,95,280,Yes,Yes,0,Diabetes
+74,Female,No,Yes,32.4,121,225,No,Yes,3,Heart Disease
+47,Female,Yes,Yes,30.9,132,179,Yes,No,5,Diabetes
+44,Male,No,Yes,28.6,91,170,No,No,4,No Disease
+58,Male,No,Yes,20.2,149,183,No,No,5,Diabetes
+52,Male,No,Yes,18.6,112,190,Yes,Yes,2,No Disease
+20,Male,Yes,Yes,33.7,120,200,Yes,Yes,0,Heart Disease
+76,Female,Yes,No,28.5,94,231,Yes,No,5,No Disease
+46,Female,Yes,Yes,31.5,123,207,Yes,Yes,1,No Disease
+76,Male,No,No,26.2,99,224,No,Yes,0,No Disease
+71,Male,Yes,No,20.0,91,172,Yes,Yes,2,No Disease
+32,Female,Yes,Yes,20.1,100,277,Yes,Yes,5,No Disease
+60,Female,Yes,No,29.7,139,299,Yes,Yes,4,No Disease
+22,Male,No,No,25.3,120,166,No,No,2,No Disease
+58,Male,No,No,21.4,145,218,Yes,No,1,No Disease
+25,Male,Yes,No,26.4,98,257,Yes,No,5,No Disease
+27,Female,Yes,No,19.1,110,288,No,No,6,Heart Disease
+46,Female,Yes,No,27.9,117,243,No,No,6,Diabetes
+28,Female,Yes,Yes,22.6,151,164,Yes,Yes,3,Diabetes
+56,Male,No,No,31.6,96,240,Yes,Yes,0,Diabetes
+52,Male,No,No,23.3,105,182,Yes,Yes,4,Diabetes
+70,Female,No,No,25.7,93,274,Yes,Yes,3,No Disease
+61,Female,No,Yes,18.2,93,165,Yes,No,5,No Disease
+63,Male,Yes,No,19.2,129,215,No,No,6,No Disease
+43,Female,Yes,Yes,24.7,106,196,No,No,6,Diabetes
+34,Female,Yes,No,26.2,141,297,Yes,Yes,6,Heart Disease
+78,Male,No,Yes,28.2,141,273,Yes,No,5,Heart Disease
+73,Female,Yes,Yes,23.0,125,150,No,Yes,6,Diabetes
+51,Male,No,No,29.8,127,236,Yes,No,2,Heart Disease
+51,Male,No,No,32.6,139,277,Yes,No,5,Heart Disease
+43,Male,Yes,Yes,31.3,152,216,Yes,Yes,4,No Disease
+60,Male,Yes,No,18.7,152,153,Yes,Yes,3,No Disease
+71,Male,Yes,Yes,26.2,151,196,Yes,No,4,Diabetes
+68,Male,No,Yes,19.8,96,187,No,No,1,Heart Disease
+68,Male,Yes,Yes,22.1,116,292,Yes,Yes,6,Diabetes
+77,Female,No,Yes,34.8,103,170,Yes,No,1,Heart Disease
+71,Male,Yes,Yes,20.4,94,206,Yes,No,0,No Disease
+31,Male,No,No,26.5,144,266,No,Yes,0,Diabetes
+58,Female,No,Yes,28.5,91,195,No,No,1,Diabetes
+21,Female,Yes,Yes,29.9,151,291,No,Yes,5,Diabetes
+22,Female,No,No,27.5,110,294,No,No,4,Heart Disease
+68,Male,No,Yes,18.2,110,188,Yes,Yes,1,No Disease
+56,Female,Yes,No,23.5,99,286,No,No,0,No Disease
+68,Male,No,No,26.8,147,248,Yes,Yes,1,No Disease
+75,Male,Yes,No,19.5,128,226,Yes,No,5,Heart Disease
+36,Male,No,Yes,24.0,94,264,No,Yes,1,Diabetes
+78,Male,Yes,Yes,18.6,154,283,No,No,4,Diabetes
+68,Female,Yes,Yes,19.3,102,240,No,No,3,No Disease
+21,Female,No,No,24.7,142,247,No,No,5,Diabetes
+21,Male,No,Yes,20.3,134,269,No,No,0,Diabetes
+47,Male,No,No,27.6,121,195,Yes,No,4,No Disease
+73,Male,No,Yes,29.7,125,187,No,No,1,No Disease
+42,Female,No,No,31.6,149,291,No,No,1,Diabetes
+56,Male,Yes,Yes,21.4,100,249,No,No,3,Diabetes
+51,Male,No,Yes,20.8,152,221,Yes,No,0,Diabetes
+52,Female,Yes,Yes,19.8,110,184,No,Yes,0,No Disease
+20,Female,Yes,No,28.8,141,296,Yes,Yes,2,Diabetes
+38,Male,No,No,30.0,144,179,No,No,0,No Disease
+21,Female,Yes,Yes,18.5,115,227,No,Yes,3,Diabetes
+72,Female,Yes,Yes,33.9,157,233,Yes,No,6,No Disease
+63,Male,Yes,No,18.9,123,262,No,No,2,No Disease
+45,Female,Yes,No,27.2,141,174,Yes,Yes,2,Diabetes
+51,Male,No,No,30.1,141,237,Yes,No,1,No Disease
+25,Female,Yes,Yes,32.8,118,163,Yes,No,1,Heart Disease
+51,Male,No,No,30.1,127,251,No,Yes,0,No Disease
+74,Male,No,Yes,31.6,131,299,No,Yes,2,No Disease
+23,Male,Yes,No,23.8,110,232,No,No,1,Heart Disease
+74,Female,No,Yes,31.9,131,259,Yes,Yes,3,No Disease
+30,Male,No,No,19.4,102,280,No,Yes,1,No Disease
+75,Female,No,No,33.2,153,168,Yes,No,5,Heart Disease
+78,Male,Yes,No,27.3,106,177,No,Yes,5,Diabetes
+36,Male,No,No,31.9,98,220,Yes,Yes,1,No Disease
+57,Female,No,No,25.7,130,212,Yes,No,2,No Disease
+43,Male,No,Yes,28.9,90,222,Yes,Yes,6,Diabetes
+24,Male,Yes,No,26.9,91,273,No,Yes,6,Heart Disease
+71,Female,No,No,30.4,149,268,Yes,No,2,Heart Disease
+53,Male,Yes,No,19.4,137,270,Yes,No,4,Diabetes
+25,Male,Yes,Yes,19.0,118,168,Yes,No,6,Diabetes
+41,Male,Yes,No,22.2,99,291,Yes,Yes,5,No Disease
+30,Male,Yes,Yes,20.7,147,269,Yes,No,3,Heart Disease
+67,Female,Yes,No,32.8,149,210,Yes,No,2,No Disease
+35,Female,Yes,No,21.7,110,179,No,Yes,0,Heart Disease
+52,Male,No,Yes,34.6,117,158,No,No,5,Heart Disease
+28,Female,Yes,No,23.7,123,213,Yes,No,3,Diabetes
+79,Male,No,Yes,21.1,97,269,No,No,3,Diabetes
+78,Female,No,Yes,31.4,148,201,No,No,2,No Disease
+25,Male,Yes,No,29.2,138,238,Yes,Yes,3,No Disease
+35,Male,No,Yes,26.5,106,291,Yes,No,2,No Disease
+48,Male,No,No,27.4,149,202,Yes,No,6,No Disease
+22,Male,No,No,30.2,134,227,No,Yes,1,No Disease
+39,Male,No,Yes,21.9,158,190,Yes,No,5,Diabetes
+79,Male,Yes,Yes,34.9,121,217,No,Yes,4,No Disease
+78,Female,No,Yes,34.6,133,157,Yes,Yes,1,No Disease
+55,Male,Yes,Yes,29.1,154,151,No,Yes,5,Heart Disease
+38,Female,No,No,21.4,97,254,Yes,No,2,No Disease
+45,Male,No,No,29.6,132,274,Yes,Yes,5,Heart Disease
+22,Female,Yes,Yes,19.2,90,259,No,Yes,6,Diabetes
+38,Female,No,No,18.5,140,235,No,Yes,2,No Disease
+39,Female,No,No,22.4,113,269,No,No,1,Heart Disease
+51,Male,No,No,25.9,113,276,No,No,0,Heart Disease
+26,Male,Yes,No,32.8,106,165,No,No,0,No Disease
+71,Female,No,Yes,30.4,94,211,No,No,5,No Disease
+60,Male,Yes,Yes,30.6,109,262,Yes,No,0,Heart Disease
+52,Female,No,No,25.2,110,161,No,No,2,No Disease
+59,Male,Yes,Yes,23.9,147,184,Yes,No,3,Diabetes
+58,Female,Yes,Yes,24.3,120,160,Yes,Yes,2,Diabetes
+37,Female,No,Yes,34.8,100,213,No,Yes,3,No Disease
+59,Male,No,No,18.7,141,199,Yes,Yes,1,No Disease
+20,Female,Yes,No,32.7,104,298,No,Yes,4,Diabetes
+30,Male,Yes,No,27.8,96,218,No,No,3,No Disease
+47,Female,No,Yes,25.5,117,197,Yes,Yes,0,No Disease
+76,Female,Yes,No,30.3,140,169,Yes,Yes,2,Heart Disease
+44,Male,No,No,26.3,147,250,No,Yes,1,Heart Disease
+69,Male,No,Yes,32.8,94,286,No,Yes,0,Heart Disease
+42,Male,No,No,33.3,94,217,Yes,No,1,No Disease
+50,Female,No,No,25.2,97,184,Yes,No,4,No Disease
+49,Male,Yes,Yes,22.7,153,214,Yes,No,6,No Disease
+61,Female,No,Yes,28.1,99,157,Yes,Yes,2,No Disease
+54,Female,Yes,Yes,33.5,127,194,No,No,5,No Disease
+26,Male,No,No,21.6,97,236,No,Yes,2,Heart Disease
+79,Male,Yes,No,28.6,114,225,No,No,4,Diabetes
+35,Female,No,No,28.7,155,225,No,No,2,Diabetes
+45,Female,Yes,Yes,30.5,139,196,Yes,No,5,Diabetes
+67,Male,Yes,Yes,20.2,156,164,Yes,No,3,No Disease
+76,Male,No,No,30.2,138,254,No,No,1,No Disease
+71,Male,No,No,33.5,125,296,No,Yes,5,Diabetes
+79,Male,No,Yes,21.1,157,175,No,No,0,Diabetes
+68,Male,No,Yes,22.0,130,201,No,Yes,4,No Disease
+21,Female,Yes,Yes,34.5,151,242,No,Yes,3,Diabetes
+20,Female,No,Yes,21.1,99,299,No,Yes,0,Heart Disease
+67,Female,Yes,No,32.5,110,170,No,Yes,0,Diabetes
+31,Female,Yes,Yes,26.4,125,200,No,Yes,4,Heart Disease
+24,Male,No,No,22.2,101,187,No,No,3,No Disease
+56,Male,Yes,No,32.8,91,169,Yes,No,6,Heart Disease
+51,Male,Yes,No,25.6,102,281,No,No,0,Diabetes
+78,Female,Yes,Yes,26.8,142,204,Yes,No,0,Diabetes
+74,Female,Yes,Yes,24.1,121,241,Yes,Yes,3,No Disease
+28,Male,No,Yes,28.1,105,177,No,No,2,Heart Disease
+60,Male,No,Yes,20.8,121,153,No,No,0,Heart Disease
+54,Female,No,No,24.6,121,299,Yes,Yes,1,Heart Disease
+38,Female,No,Yes,34.5,100,225,Yes,Yes,3,Heart Disease
+67,Male,Yes,Yes,22.4,99,216,No,No,0,Heart Disease
+35,Male,Yes,No,29.2,104,235,Yes,No,4,No Disease
+22,Female,No,Yes,23.5,106,240,No,Yes,5,Heart Disease
+39,Male,No,No,31.1,129,254,No,No,1,Heart Disease
+43,Male,No,No,20.2,107,150,No,No,5,No Disease
+73,Male,Yes,No,34.5,144,221,Yes,No,5,Diabetes
+75,Female,No,No,25.7,114,236,Yes,No,0,Diabetes
+52,Female,No,No,22.0,148,155,No,Yes,1,Diabetes
+43,Female,No,No,19.2,111,294,Yes,Yes,1,No Disease
+71,Female,Yes,No,20.9,119,210,Yes,Yes,2,Heart Disease
+30,Female,Yes,No,26.8,133,161,Yes,No,5,No Disease
+68,Female,Yes,Yes,23.7,121,155,Yes,No,1,No Disease
+27,Female,Yes,Yes,32.1,140,176,Yes,No,2,Heart Disease
+55,Male,Yes,Yes,25.3,135,285,Yes,No,3,No Disease
+57,Male,Yes,Yes,22.2,110,273,Yes,No,2,Heart Disease
+59,Male,Yes,No,28.5,121,255,No,Yes,4,Heart Disease
+39,Male,Yes,Yes,30.0,128,242,Yes,No,6,No Disease
+54,Male,No,No,20.8,101,258,Yes,No,0,No Disease
+67,Male,No,Yes,20.8,136,248,Yes,Yes,3,No Disease
+44,Male,Yes,Yes,18.6,107,291,Yes,No,6,Heart Disease
+54,Female,Yes,Yes,30.5,110,184,Yes,Yes,6,Diabetes
+44,Female,No,No,29.3,102,233,Yes,Yes,3,No Disease
+48,Male,Yes,Yes,26.1,110,205,Yes,Yes,4,Diabetes
+37,Male,Yes,No,32.4,97,290,Yes,Yes,2,Diabetes
+65,Female,Yes,No,31.7,135,198,No,Yes,0,Heart Disease
+37,Male,No,Yes,28.0,96,195,Yes,No,2,Heart Disease
+21,Male,No,Yes,32.8,112,262,Yes,Yes,1,No Disease
+73,Female,No,Yes,21.5,111,285,Yes,Yes,2,Diabetes
+54,Male,No,No,19.9,111,192,Yes,No,3,No Disease
+35,Female,No,Yes,22.6,118,297,No,No,0,Diabetes
+60,Male,Yes,No,19.0,102,273,No,Yes,2,No Disease
+55,Female,No,No,27.0,91,246,No,No,0,Heart Disease
+52,Female,Yes,Yes,33.9,118,239,No,No,0,Diabetes
+23,Female,Yes,Yes,18.7,141,188,No,Yes,1,Heart Disease
+52,Male,No,No,20.1,116,234,No,Yes,1,Diabetes
+33,Female,No,No,25.7,139,211,No,No,3,Diabetes
+40,Male,Yes,No,33.9,112,255,No,Yes,4,No Disease
+67,Male,Yes,Yes,23.4,133,256,No,Yes,6,No Disease
+39,Male,Yes,No,26.6,111,203,No,No,0,Heart Disease
+75,Male,No,Yes,18.7,132,275,No,Yes,4,Heart Disease
+27,Female,No,No,20.5,126,158,No,Yes,6,Heart Disease
+26,Female,No,No,34.8,150,237,No,Yes,6,Diabetes
+22,Male,No,Yes,34.4,145,186,No,Yes,3,No Disease
+36,Male,No,No,18.1,92,198,No,Yes,6,No Disease
+52,Female,Yes,Yes,34.2,152,190,No,No,6,Heart Disease
+67,Male,No,Yes,28.9,108,166,Yes,No,0,Diabetes
+31,Female,Yes,No,32.8,112,237,No,Yes,0,Diabetes
+78,Male,Yes,Yes,25.7,118,170,Yes,No,5,No Disease
+70,Male,Yes,Yes,26.8,119,200,No,Yes,4,Diabetes
+41,Female,No,No,26.3,128,208,No,Yes,2,No Disease
+74,Male,No,Yes,29.3,114,190,Yes,Yes,1,No Disease
+41,Female,No,Yes,20.4,97,188,No,Yes,2,Heart Disease
+65,Male,Yes,Yes,18.5,147,290,Yes,Yes,4,No Disease
+49,Male,Yes,No,23.2,105,160,Yes,No,1,Heart Disease
+57,Male,Yes,Yes,30.0,90,296,Yes,No,2,No Disease
+57,Female,Yes,No,21.4,94,288,No,Yes,5,Diabetes
+64,Male,Yes,No,29.4,92,226,No,No,1,Diabetes
+70,Male,Yes,Yes,34.5,154,276,No,Yes,0,No Disease
+73,Male,No,Yes,19.6,93,195,Yes,No,2,No Disease
+27,Male,No,Yes,29.4,153,194,Yes,Yes,1,No Disease
+46,Female,No,No,25.5,99,150,No,No,5,Diabetes
+46,Female,No,Yes,32.8,110,257,No,Yes,6,No Disease
+53,Male,Yes,Yes,21.0,135,168,No,Yes,1,Diabetes
+40,Female,Yes,Yes,29.8,116,225,No,No,1,No Disease
+49,Male,No,Yes,32.2,155,221,No,No,5,Diabetes
+52,Male,Yes,Yes,34.1,130,258,Yes,Yes,6,No Disease
+47,Male,No,No,29.6,102,161,Yes,No,2,No Disease
+66,Female,No,No,26.5,98,194,Yes,Yes,3,No Disease
+52,Female,No,Yes,28.5,125,239,No,No,2,Heart Disease
+24,Female,Yes,Yes,32.8,147,252,Yes,No,6,Heart Disease
+79,Female,No,Yes,27.7,143,157,Yes,Yes,4,No Disease
+67,Female,No,Yes,18.5,101,240,Yes,No,5,Heart Disease
+38,Female,No,No,33.8,103,236,Yes,No,2,No Disease
+23,Female,Yes,Yes,29.7,123,233,Yes,Yes,1,Diabetes
+54,Female,Yes,No,29.5,142,231,No,No,5,Diabetes
+68,Female,No,No,21.7,109,295,Yes,Yes,0,No Disease
+36,Male,Yes,Yes,29.2,105,217,No,Yes,6,No Disease
+63,Female,Yes,No,24.7,159,276,No,Yes,2,Diabetes
+47,Female,Yes,No,29.1,145,231,No,Yes,5,Diabetes
+49,Female,Yes,No,19.8,147,296,No,Yes,2,Diabetes
+48,Female,Yes,No,29.2,93,233,No,No,5,No Disease
+65,Female,Yes,Yes,35.0,93,262,Yes,Yes,1,Heart Disease
+72,Female,Yes,Yes,18.8,109,225,Yes,Yes,0,No Disease
+25,Female,Yes,No,34.6,99,271,No,No,0,No Disease
+54,Female,Yes,Yes,24.9,113,292,No,No,4,Diabetes
+79,Female,Yes,Yes,32.8,115,190,No,No,5,No Disease
+60,Female,No,Yes,31.3,126,151,Yes,Yes,2,Diabetes
+56,Female,No,Yes,27.6,143,178,No,Yes,0,Diabetes
+43,Male,Yes,Yes,30.6,110,254,Yes,Yes,6,No Disease
+48,Male,No,No,32.9,127,200,No,No,0,Heart Disease
+68,Female,No,Yes,24.9,135,224,Yes,Yes,3,Heart Disease
+65,Female,Yes,Yes,23.6,93,159,No,No,3,Diabetes
+72,Male,Yes,Yes,29.3,149,291,Yes,Yes,0,Diabetes
+50,Female,Yes,Yes,31.7,146,200,No,No,5,Diabetes
+54,Male,No,No,31.0,134,267,Yes,Yes,4,No Disease
+79,Male,No,No,31.6,109,270,Yes,Yes,0,No Disease
+52,Male,Yes,No,25.4,106,188,Yes,Yes,1,No Disease
+71,Male,Yes,No,31.9,93,177,Yes,No,2,Heart Disease
+40,Male,Yes,Yes,20.0,103,152,Yes,No,4,Diabetes
+51,Female,No,No,27.3,92,233,Yes,Yes,1,Heart Disease
+42,Male,No,Yes,18.1,147,266,Yes,Yes,4,Heart Disease
+52,Female,No,Yes,23.5,144,151,No,Yes,1,Diabetes
+22,Female,No,Yes,24.2,93,242,No,No,2,Heart Disease
+37,Male,Yes,Yes,24.7,113,280,No,Yes,2,Heart Disease
+44,Male,Yes,Yes,29.8,123,293,No,Yes,3,Heart Disease
+61,Female,Yes,No,24.6,119,243,No,Yes,5,No Disease
+50,Male,Yes,No,25.6,108,189,Yes,Yes,1,No Disease
+73,Male,No,No,22.0,120,151,Yes,No,3,No Disease
+77,Female,No,No,24.3,149,230,Yes,No,1,No Disease
+22,Female,Yes,Yes,21.9,149,161,Yes,Yes,3,No Disease
+59,Male,Yes,No,19.2,108,214,Yes,Yes,2,Diabetes
+65,Female,No,Yes,28.3,138,204,No,No,4,Heart Disease
+43,Male,Yes,No,29.4,152,194,No,No,6,No Disease
+69,Male,No,Yes,28.5,111,250,No,Yes,3,No Disease
+51,Male,Yes,Yes,25.9,113,211,No,No,1,No Disease
+66,Female,Yes,No,24.5,119,198,Yes,No,1,No Disease
+41,Female,Yes,Yes,32.7,147,276,Yes,Yes,6,Diabetes
+42,Female,Yes,Yes,26.8,120,172,Yes,No,5,No Disease
+21,Female,Yes,No,26.1,153,187,No,No,2,No Disease
+46,Female,Yes,Yes,18.4,108,177,Yes,Yes,1,Diabetes
+61,Male,Yes,No,23.8,137,170,No,Yes,0,No Disease
+21,Male,No,No,24.5,134,256,Yes,No,4,Diabetes
+45,Male,No,No,24.8,144,295,Yes,Yes,3,No Disease
+36,Male,No,Yes,27.9,144,248,No,No,5,No Disease
+59,Female,No,Yes,27.1,107,268,Yes,Yes,6,Heart Disease
+52,Male,No,Yes,28.3,152,222,Yes,No,4,No Disease
+28,Female,Yes,No,31.0,136,271,No,Yes,2,Heart Disease
+62,Male,Yes,Yes,31.8,146,179,Yes,No,5,No Disease
+73,Female,No,No,30.2,134,257,No,No,3,Diabetes
+67,Female,Yes,No,34.2,122,247,Yes,No,3,No Disease
+58,Male,No,Yes,18.3,106,181,Yes,Yes,6,Heart Disease
+48,Male,No,No,21.3,159,228,Yes,Yes,0,No Disease
+61,Male,Yes,Yes,18.1,93,190,Yes,No,6,Heart Disease
+74,Male,Yes,Yes,29.0,109,212,Yes,No,2,No Disease
+45,Female,Yes,Yes,33.3,136,172,Yes,Yes,5,No Disease
+54,Male,No,Yes,22.1,104,253,Yes,Yes,5,No Disease
+69,Male,Yes,Yes,33.8,159,224,Yes,Yes,1,No Disease
+44,Female,No,No,19.0,136,197,No,Yes,0,No Disease
+43,Male,No,No,33.9,98,206,No,Yes,0,Heart Disease
+32,Male,No,No,24.0,105,267,Yes,Yes,5,Diabetes
+79,Male,Yes,Yes,19.7,158,249,Yes,No,5,Diabetes
